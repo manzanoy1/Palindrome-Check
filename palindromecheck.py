@@ -1,6 +1,6 @@
 #Yanira Manzano
 #04/02/2020
-#Assignment 9: Palindrome Check
+#Palindrome Check
 
 user = input("Enter a word: ")
 
